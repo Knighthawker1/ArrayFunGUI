@@ -1,0 +1,10 @@
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\bin\Debug\ArrayFunGUI.exe.config
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\bin\Debug\ArrayFunGUI.exe
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\bin\Debug\ArrayFunGUI.pdb
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\obj\Debug\ArrayFunGUI.csprojAssemblyReference.cache
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\obj\Debug\ArrayFunGUI.frmArrayFunGUI.resources
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\obj\Debug\ArrayFunGUI.Properties.Resources.resources
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\obj\Debug\ArrayFunGUI.csproj.GenerateResource.cache
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\obj\Debug\ArrayFunGUI.csproj.CoreCompileInputs.cache
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\obj\Debug\ArrayFunGUI.exe
+D:\Programming\HOT\HOT3\ArrayFunGUI\ArrayFunGUI\obj\Debug\ArrayFunGUI.pdb
